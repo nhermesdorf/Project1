@@ -1,0 +1,6 @@
+# Product version 10.2
+# Build version 4618
+setVersionVar currentJobCore "W0000076-08-iPadmrtcover";
+setVersionVar stlDirectory "Z:/DCC-003-TD/Nhermesdorf/GIT_TSG/Project1";
+setVersionVar stlPath "Z:/DCC-003-TD/Nhermesdorf/GIT_TSG/Project1/W0000076-08-iPadmrtcover.STL";
+setVersionVar toolpathFile "W0000076-08-iPadmrtcover.cmb";
